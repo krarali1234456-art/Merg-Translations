@@ -113,7 +113,7 @@
 
     <!-- Multiplayer -->
     <string name="play_online">PLAY ONLINE</string>
-    <string name="switch_server">Switch Server</string>
+    <string name="switch_server">تغيير الخادم</string>
     <string name="x_players">%s players</string>
     <string name="x_player">%s player</string>
     <string name="x_online">%s online</string>
@@ -125,8 +125,8 @@
     <string name="server_europe">Europe</string>
     <string name="join">دخول</string>
     <string name="create">Create</string>
-    <string name="create_chat_room">CREATE CHAT ROOM</string>
-    <string name="create_private_game">CREATE PRIVATE GAME</string>
+    <string name="create_chat_room">صنع غرفة دردشة</string>
+    <string name="create_private_game">صنع غرفة خاصة</string>
     <string name="room_full">الغرفة ممتلئة</string>
     <string name="clan">عشيرة</string>
     <string name="friends">اصدقاء</string>
@@ -152,9 +152,9 @@
     <string name="competitive">Competitive</string>
     <string name="competitive_menu">COMPETITIVE</string>
     <string name="competitive_history">Competitive History</string>
-    <string name="rating_label">Rating</string>
+    <string name="rating_label">تقييم</string>
     <string name="unrated">Unrated</string>
-    <string name="find_opponent">FIND OPPONENT</string>
+    <string name="find_opponent">العثور على عدو</string>
     <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
     <string name="searching_ellipsis">Searching…</string>
     <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
@@ -166,15 +166,15 @@
     <string name="stat_losses_label"> · Losses: </string>
     <string name="stat_winrate_label"> · Win rate: </string>
     <string name="match_starts_in">Match starts in…</string>
-    <string name="vs_label">VS</string>
+    <string name="vs_label">ضد</string>
     <string name="ongoing_matches">Ongoing matches</string>
     <string name="match_status_starting">STARTING</string>
     <string name="match_status_in_progress">IN PROGRESS</string>
-    <string name="match_status_finished">FINISHED</string>
-    <string name="victory">VICTORY</string>
-    <string name="defeat">DEFEAT</string>
-    <string name="draw">DRAW</string>
-    <string name="play_again">Play Again</string>
+    <string name="match_status_finished">اfinished</string>
+    <string name="victory">الفوز</string>
+    <string name="defeat">الخسارة</string>
+    <string name="draw">تعادل</string>
+    <string name="play_again">اللعب مجدداً</string>
     <string name="play_x_more_matches_to_rated">Play %d more matches to be rated!</string>
     <string name="play_one_more_match_to_rated">Play 1 more match to be rated!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
@@ -192,7 +192,7 @@
     <string name="successfully_claimed_code">Reward Claimed</string>
     <string name="reward_voidstones">+%s Voidstones</string>
     <string name="reward_unlock">Unlocked: %s</string>
-    <string name="reward_name_color">Name Color</string>
+    <string name="reward_name_color">لون الاسم</string>
     <string name="reward_name_color_gradient">Name Color Gradient</string>
     <string name="reward_profile_color">Profile Color</string>
     <string name="reward_profile_gradient">Profile Color Gradient</string>
@@ -352,20 +352,20 @@
     <string name="no_account_found">لم يتم العثور على الحساب</string>
 
     <!-- Clan -->
-    <string name="clan_create">Create Clan</string>
-    <string name="clan_name">Clan Name</string>
+    <string name="clan_create">اصنع عشيرة</string>
+    <string name="clan_name">اسم العشيرة</string>
     <string name="clan_name_hint">Enter clan name (max 14)</string>
     <string name="clan_tag">Clan Tag</string>
     <string name="clan_tag_hint">Tag (1-4 letters)</string>
     <string name="clan_list">Public Clans</string>
     <string name="clan_no_clans">No clans found</string>
-    <string name="no_clan">No clan</string>
+    <string name="no_clan">بدون عشيرة</string>
     <string name="clan_request_clans">Request Only Clans</string>
-    <string name="clan_my_invites">My Invites</string>
+    <string name="clan_my_invites">دعواتي</string>
     <string name="clan_invite_declined">Invite declined.</string>
     <string name="clan_joined">Clan joined!</string>
     <string name="clan_private">This clan is private or no longer active.</string>
-    <string name="clan_members">Members</string>
+    <string name="clan_members">اعضاء العشيرة</string>
     <string name="clan_members_count">%1$d / %2$d members</string>
     <string name="clan_request_join">Request to Join</string>
     <string name="clan_leave">Leave Clan</string>
