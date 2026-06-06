@@ -15,7 +15,8 @@
             Language.KOREAN -> context.getString(R.string.ordinal_fallback, this) // everything the same
             Language.PORTUGUESE -> context.getString(R.string.ordinal_fallback, this) // everything the same
             Language.SPANISH -> context.getString(R.string.ordinal_fallback, this) // everything the same
-            // Remaining: ARABIC, BENGALI, CZECH, DANISH, DUTCH, FILIPINO, FINNISH, FRENCH, GERMAN, GREEK, HINDI, INDONESIAN, POLISH, ROMANIAN, RUSSIAN, SWEDISH, THAI, TURKISH, VIETNAMESE
+            Language.VIETNAMESE -> context.getString(R.string.ordinal_fallback, this) // everything the same
+            // Remaining: ARABIC, BENGALI, CZECH, DANISH, DUTCH, FILIPINO, FINNISH, FRENCH, GERMAN, GREEK, HINDI, INDONESIAN, POLISH, ROMANIAN, RUSSIAN, SWEDISH, THAI, TURKISH
             else -> this.toString() // 1, 2, 3, etc.
         }
     }
